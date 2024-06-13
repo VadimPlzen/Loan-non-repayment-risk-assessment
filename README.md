@@ -23,9 +23,6 @@ For each client, there is information about their marital status, education, inc
 
     Step 1: Open the data file and examine the general information
 
-File path: /datasets/credit_scoring_eng.csv
-Download the dataset from the link.
-
     Load the data from the csv file into a DataFrame using the pandas library.
     Examine the general information about the resulting DataFrame.
     Make preliminary conclusions about the data.
