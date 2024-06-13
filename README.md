@@ -19,9 +19,8 @@ For each client, there is information about their marital status, education, inc
     total_income — monthly income;
     purpose — reason for taking out the loan.
 
-    Project implementation
-
-    Step 1: Open the data file and examine the general information
+ 
+Step 1: Open the data file and examine the general information
 
     Load the data from the csv file into a DataFrame using the pandas library.
     Examine the general information about the resulting DataFrame.
